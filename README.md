@@ -7,8 +7,7 @@ and the distance across the widest part of the circle (diameter).
 No matter how big your circle, the ratio of circumference to diameter is the value of Pi.
 Based on this I created a scheme program that calculates pi. 
 
-- It concists of 4 steps: 
-                         *1) distance-to-origin procedure
+- It concists of 4 steps:*1) distance-to-origin procedure
                          *2) make-points procedure
                          *3) count-in-circle procedure
                          *4) calculate-pi procedure 
